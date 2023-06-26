@@ -1,6 +1,3 @@
 #!/bin/bash
-<<<<<<< HEAD
 echo "ALX School"
-=======
 echo "ALX school is so cool"
->>>>>>> parent of ec818e0... Revert "changed the ALX file content"
